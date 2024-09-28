@@ -1,0 +1,63 @@
+!SESSION 2024-09-28 15:08:19.699 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/mohamedabdi/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/mohamedabdi/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-28 15:08:25.499
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-28 15:09:36.346
+!MESSAGE Logback config file: /Users/mohamedabdi/eclipse-workspace/EclipseProjects/workspace-academy-java/bptn-java/academy-java/src/main/java/com/bptn/course/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui.ide 4 0 2024-09-28 15:10:27.451
+!MESSAGE Could not import project located at /Users/mohamedabdi/eclipse-workspace/EclipseProjects/workspace-academy-java/bptn-java/academy-java/src/main/java/com/bptn/course
+!STACK 0
+org.eclipse.ui.internal.wizards.datatransfer.CouldNotImportProjectException: Could not import project located at /Users/mohamedabdi/eclipse-workspace/EclipseProjects/workspace-academy-java/bptn-java/academy-java/src/main/java/com/bptn/course
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.toExistingOrNewProject(SmartImportJob.java:555)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.run(SmartImportJob.java:246)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:211)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:95)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:305)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:291)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.createOrImportProject(SmartImportJob.java:594)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.toExistingOrNewProject(SmartImportJob.java:542)
+	... 2 more
+!SESSION 2024-09-28 15:17:51.534 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/mohamedabdi/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/mohamedabdi/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-28 15:17:55.063
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-28 15:21:01.695
+!MESSAGE Logback config file: /Users/mohamedabdi/eclipse-workspace/EclipseProjects/workspace-academy-java/bptn-java/academy-java/src/main/java/com/bptn/course/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.core.resources 4 77 2024-09-28 15:25:15.279
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2024-09-28 15:25:15.279
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2024-09-28 15:25:15.279
+!MESSAGE /Users/mohamedabdi/eclipse-workspace/EclipseProjects/workspace-academy-java/bptn-java/academy-java overlaps the workspace location: /Users/mohamedabdi/eclipse-workspace/EclipseProjects/workspace-academy-java/bptn-java/academy-java/src/main/java/com/bptn/course
+
+!ENTRY org.eclipse.core.resources 4 77 2024-09-28 15:25:43.335
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2024-09-28 15:25:43.335
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2024-09-28 15:25:43.335
+!MESSAGE /Users/mohamedabdi/eclipse-workspace/EclipseProjects/workspace-academy-java/bptn-java/academy-java overlaps the workspace location: /Users/mohamedabdi/eclipse-workspace/EclipseProjects/workspace-academy-java/bptn-java/academy-java/src/main/java/com/bptn/course
+
+!ENTRY org.eclipse.core.resources 4 77 2024-09-28 15:26:27.483
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2024-09-28 15:26:27.483
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2024-09-28 15:26:27.483
+!MESSAGE /Users/mohamedabdi/eclipse-workspace/EclipseProjects/workspace-academy-java/bptn-java overlaps the workspace location: /Users/mohamedabdi/eclipse-workspace/EclipseProjects/workspace-academy-java/bptn-java/academy-java/src/main/java/com/bptn/course

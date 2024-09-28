@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+/Users/mohamedabdi/eclipse-workspace/EclipseProjects/workspace-academy-java/bptn-java/academy-java/src/main/java/com/bptn/course/.metadata/.plugins/org.eclipse.jdt.core

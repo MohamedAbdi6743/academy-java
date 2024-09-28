@@ -1,0 +1,26 @@
+!SESSION 2024-09-28 15:12:07.628 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/mohamedabdi/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/mohamedabdi/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-28 15:12:12.652
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-28 15:12:36.776
+!MESSAGE Logback config file: /Users/mohamedabdi/eclipse-workspace/EclipseProjects/workspace-academy-java/bptn-java/academy-java/src/main/java/com/bptn/course/BigChallenges/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-09-28 15:29:34.233 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/mohamedabdi/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/mohamedabdi/.eclipse_keyring -data /Users/mohamedabdi/eclipse-workspace/EclipseProjects/workspace-academy-java/bptn-java/academy-java/src/main/java/com/bptn/course/BigChallenges
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-28 15:29:40.380
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-28 15:29:42.867
+!MESSAGE Logback config file: /Users/mohamedabdi/eclipse-workspace/EclipseProjects/workspace-academy-java/bptn-java/academy-java/src/main/java/com/bptn/course/BigChallenges/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
